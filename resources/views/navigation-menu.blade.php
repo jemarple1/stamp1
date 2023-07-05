@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                        <b>AdBolt</b>
+                    <h2 class="font-semibold text-2xl">AdBolt</h2>
                     </a>
                 </div>
 
